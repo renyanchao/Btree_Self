@@ -1,6 +1,4 @@
-/* github test */
-/* gitgub test2 */
-/* github test3 by branch */
+/* modify by master */
 #include<iostream>
 #include <assert.h>
 #include <stack>
