@@ -1,4 +1,4 @@
-/* reset all modify by branch */
+/* reset all modify by branch to push origin/dev */
 #include<iostream>
 #include <assert.h>
 #include <stack>
