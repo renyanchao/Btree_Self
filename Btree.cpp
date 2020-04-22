@@ -1,5 +1,4 @@
-/* modify by master */
-/* modify by branch */
+/* reset all modify by branch */
 #include<iostream>
 #include <assert.h>
 #include <stack>
